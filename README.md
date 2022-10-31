@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarceeDev
+- 👀 I’m interested in 3D Computer Graphics
+- 🌱 I’m currently learning C++ and Direct3D
+- 📫 How to reach me: send an email to marceethechin@gmail.com
